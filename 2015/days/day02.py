@@ -1,3 +1,6 @@
+"""
+Implementation for https://adventofcode.com/2015/day/2
+"""
 from math import prod
 
 def solve(input: str) -> int:
